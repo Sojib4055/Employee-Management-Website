@@ -17,12 +17,12 @@ $result = mysqli_query($conn, $sql);
 			<h1>Coders Com</h1>
 			<ul id="navli">
 				<li><a class="homered" href="adminpage.php">HOME</a></li>
-				<li><a class="homeblack" href="addemp.php">Add Employee</a></li>
+				<li><a class="homeblack" href="addemployee.php">Add Employee</a></li>
 				<li><a class="homeblack" href="viewemp.php">View Employee</a></li>
-				<li><a class="homeblack" href="assign.php">Assign Project</a></li>
-				<li><a class="homeblack" href="assignproject.php">Project Status</a></li>
-				<li><a class="homeblack" href="salaryemp.php">Salary Table</a></li>
-				<li><a class="homeblack" href="empleave.php">Employee Leave</a></li>
+				<li><a class="homeblack" href="#">Assign Project</a></li>
+				<li><a class="homeblack" href="#">Project Status</a></li>
+				<li><a class="homeblack" href="#">Salary Table</a></li>
+				<li><a class="homeblack" href="#">Employee Leave</a></li>
 				<li><a class="homeblack" href="adminLog.html">Log Out</a></li>
 			</ul>
 		</nav>
